@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "stories/createInstance.stories.js"  ],
   "exclude": [
     "node_modules"
   ]
